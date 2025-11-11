@@ -21,10 +21,12 @@ Hello There! I'm a full stack developer from India, interested in myriad fields 
 ---
 [![](https://visitcount.itsvg.in/api?id=Helios117&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## My Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Lord_Helios?theme=unicorn&font=roboto)](https://leetcode.com/Lord_Helios)
