@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&textBg=false)
 
 # 💫 About Me:
-Hello There! I'm a full stack developer from India, interested in myriad fields including machine learning, quantum computing, physics simulations and much more. An avid reader, movie connoisseur, professional gamer and audiophile with an endless hunger for learning.
+Hello there! I'm a full-stack developer from India with interests spanning machine learning, quantum computing, physics simulations, and more. I am also an avid reader, movie connoisseur, video game enthusiast and audiophile with an endless curiosity and passion for learning.
 
 
 ## 🌐 Socials:
